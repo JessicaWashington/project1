@@ -1,0 +1,38 @@
+/* For small screens, one interest per line */
+@media only screen and (min-width: 300px) {
+
+.myinterest {
+    width: 25%;
+  }
+
+}
+
+/* For small screens, two interest per line */
+@media only screen and (min-width: 480px) {
+
+ .myinterest {
+    width: 50%;
+  }
+
+}
+
+/* For small screens, two interest per line */
+@media only screen and (min-width: 768px) {
+
+ .myinterest {
+    width: 50%;
+  }
+
+}
+
+
+/* For small screens, three interest per line */
+@media only screen and (min-width: 1024px) {
+
+ .myinterest {
+    width: 100%;
+  }
+
+}   
+
+
